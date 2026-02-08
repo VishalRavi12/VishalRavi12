@@ -1,4 +1,5 @@
 ## Hi there 👋
+![dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7](https://github.com/user-attachments/assets/6de48cff-4781-4553-885c-e74019ecacd6)
 
 # 💫 About Me:
 🔭 I’m currently working on: Fine-tuning Deep Learning models<br>👯 I’m looking to collaborate on: Open-source Computer Vision projects or high-scale Data Engineering pipelines that leverage Python and Azure<br>🤝 I’m looking for help with: Advanced LLM fine-tuning techniques and deploying scalable MLOps workflows on AWS or GCP.<br>🌱 I’m currently learning: Reinforcement Learning (specifically SARSA and power methods) and advanced Machine Learning concepts to enhance predictive maintenance accuracy.<br>💬 Ask me about: YOLOv5 for object detection, building MERN stack applications, or how I used PowerBI to improve stakeholder decision turnaround by 25%.
